@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* p{
+  transform: translateX();
+  -webkit-transform: translateX();
+  -moz-transform: translateX();
+  -ms-transform: translateX();
+  -o-transform: translateX();
+} */
